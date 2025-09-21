@@ -39,7 +39,7 @@ python --version
 ```
 
 ## Obtain CLIST API credentials
-- Sign in at https://clist.by/ and open your profile settings.
+- Sign in at https://clist.by and open your profile settings.
 - Generate an API key (or reuse an existing key) and note your CLIST username.
 - Keep these values available for the helper prompts or set them as environment variables.
 
@@ -139,7 +139,7 @@ python --version
 ```
 
 ## 获取 CLIST API 凭证
-- 登录 https://clist.by/，进入个人资料设置。
+- 登录 https://clist.by，进入个人资料设置。
 - 生成或查看已有的 API Key，记录对应的用户名。
 - 可在运行助手时输入这些信息，或提前写入环境变量。
 
