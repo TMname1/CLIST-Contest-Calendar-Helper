@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+PRODID:-//CLIST Import//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CLIST Contests
+BEGIN:VEVENT
+UID:61720411@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250921T110000Z
+DTEND:20250921T130000Z
+SUMMARY:ac.nowcoder.com: 牛客周赛 Round 110 [IOI]
+DESCRIPTION:Title: 牛客周赛 Round 110 [IOI]\nPlatform: ac.nowcoder.com\nDuratio
+ n: 2h\nURL: https://ac.nowcoder.com/acm/contest/117163
+URL:https://ac.nowcoder.com/acm/contest/117163
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61655385@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250921T120000Z
+DTEND:20250921T140000Z
+SUMMARY:atcoder.jp: AtCoder Regular Contest 206 (Div. 2)
+DESCRIPTION:Title: AtCoder Regular Contest 206 (Div. 2)\nPlatform: atcoder.
+ jp\nDuration: 2h\nURL: https://atcoder.jp/contests/arc206
+URL:https://atcoder.jp/contests/arc206
+CATEGORIES:atcoder.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:61722362@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250921T143500Z
+DTEND:20250921T165000Z
+SUMMARY:codeforces.com: Codeforces Round 1052 (Div. 2)
+DESCRIPTION:Title: Codeforces Round 1052 (Div. 2)\nPlatform: codeforces.com
+ \nDuration: 2h 15m\nURL: https://codeforces.com/contests/2146
+URL:https://codeforces.com/contests/2146
+CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61930593@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250922T063000Z
+DTEND:20250922T113000Z
+SUMMARY:luogu.com.cn: PO Final 2022 Unofficial Mirror [ioi]
+DESCRIPTION:Title: PO Final 2022 Unofficial Mirror [ioi]\nPlatform: luogu.c
+ om.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/contest/275647
+URL:https://www.luogu.com.cn/contest/275647
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61940810@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250924T113500Z
+DTEND:20250924T143500Z
+SUMMARY:codeforces.com: Codeforces Round (Div. 1)
+DESCRIPTION:Title: Codeforces Round (Div. 1)\nPlatform: codeforces.com\nDur
+ ation: 3h\nURL: https://codeforces.com/contests/2150
+URL:https://codeforces.com/contests/2150
+CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61940811@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250924T113500Z
+DTEND:20250924T143500Z
+SUMMARY:codeforces.com: Codeforces Round (Div. 2)
+DESCRIPTION:Title: Codeforces Round (Div. 2)\nPlatform: codeforces.com\nDur
+ ation: 3h\nURL: https://codeforces.com/contests/2151
+URL:https://codeforces.com/contests/2151
+CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61852662@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250925T143500Z
+DTEND:20250925T165000Z
+SUMMARY:codeforces.com: Codeforces Round 1054 (Div. 3)
+DESCRIPTION:Title: Codeforces Round 1054 (Div. 3)\nPlatform: codeforces.com
+ \nDuration: 2h 15m\nURL: https://codeforces.com/contests/2149
+URL:https://codeforces.com/contests/2149
+CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61905934@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250926T110000Z
+DTEND:20250926T130000Z
+SUMMARY:ac.nowcoder.com: 牛客小白月赛121 [ACM]
+DESCRIPTION:Title: 牛客小白月赛121 [ACM]\nPlatform: ac.nowcoder.com\nDuration: 2h
+ \nURL: https://ac.nowcoder.com/acm/contest/117762
+URL:https://ac.nowcoder.com/acm/contest/117762
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61929749@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250927T060000Z
+DTEND:20250927T100000Z
+SUMMARY:luogu.com.cn: 【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7 [rated\, io
+ i]
+DESCRIPTION:Title: 【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7 [rated\, ioi]\
+ nPlatform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/conte
+ st/243716
+URL:https://www.luogu.com.cn/contest/243716
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61470747@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250927T120000Z
+DTEND:20250927T134000Z
+SUMMARY:atcoder.jp: UNIQUE VISION Programming Contest 2024 Autumn (AtCoder 
+ Beginner Contest 425)
+DESCRIPTION:Title: UNIQUE VISION Programming Contest 2024 Autumn (AtCoder B
+ eginner Contest 425)\nPlatform: atcoder.jp\nDuration: 1h 40m\nURL: https:/
+ /atcoder.jp/contests/abc425
+URL:https://atcoder.jp/contests/abc425
+CATEGORIES:atcoder.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:61794058@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250927T143000Z
+DTEND:20250927T160000Z
+SUMMARY:leetcode.com: Biweekly Contest 166
+DESCRIPTION:Title: Biweekly Contest 166\nPlatform: leetcode.com\nDuration: 
+ 1h 30m\nURL: https://leetcode.com/contest/biweekly-contest-166
+URL:https://leetcode.com/contest/biweekly-contest-166
+CATEGORIES:leetcode.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61989145@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250928T023000Z
+DTEND:20250928T040000Z
+SUMMARY:leetcode.com: Weekly Contest 469
+DESCRIPTION:Title: Weekly Contest 469\nPlatform: leetcode.com\nDuration: 1h
+  30m\nURL: https://leetcode.com/contest/weekly-contest-469
+URL:https://leetcode.com/contest/weekly-contest-469
+CATEGORIES:leetcode.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61906250@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250928T110000Z
+DTEND:20250928T130000Z
+SUMMARY:ac.nowcoder.com: 牛客周赛 Round 111 [IOI]
+DESCRIPTION:Title: 牛客周赛 Round 111 [IOI]\nPlatform: ac.nowcoder.com\nDuratio
+ n: 2h\nURL: https://ac.nowcoder.com/acm/contest/117763
+URL:https://ac.nowcoder.com/acm/contest/117763
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61351177@clist.by
+DTSTAMP:20250921T075749Z
+DTSTART:20250928T120000Z
+DTEND:20250928T150000Z
+SUMMARY:atcoder.jp: AtCoder Grand Contest 073
+DESCRIPTION:Title: AtCoder Grand Contest 073\nPlatform: atcoder.jp\nDuratio
+ n: 3h\nURL: https://atcoder.jp/contests/agc073
+URL:https://atcoder.jp/contests/agc073
+CATEGORIES:atcoder.jp
+END:VEVENT
+END:VCALENDAR
