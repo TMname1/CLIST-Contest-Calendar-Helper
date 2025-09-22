@@ -5,19 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:61930593@clist.by
-DTSTAMP:20250922T032943Z
-DTSTART:20250922T063000Z
-DTEND:20250922T113000Z
-SUMMARY:luogu.com.cn: PO Final 2022 Unofficial Mirror [ioi]
-DESCRIPTION:Title: PO Final 2022 Unofficial Mirror [ioi]\nPlatform: luogu.c
- om.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/contest/275647
-URL:https://www.luogu.com.cn/contest/275647
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
 UID:61940810@clist.by
-DTSTAMP:20250922T032943Z
+DTSTAMP:20250922T161421Z
 DTSTART:20250924T113500Z
 DTEND:20250924T143500Z
 SUMMARY:codeforces.com: Codeforces Round 1053 (Div. 1)
@@ -28,13 +17,24 @@ CATEGORIES:codeforces.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61940811@clist.by
-DTSTAMP:20250922T032943Z
+DTSTAMP:20250922T161421Z
 DTSTART:20250924T113500Z
 DTEND:20250924T143500Z
 SUMMARY:codeforces.com: Codeforces Round 1053 (Div. 2)
 DESCRIPTION:Title: Codeforces Round 1053 (Div. 2)\nPlatform: codeforces.com
  \nDuration: 3h\nURL: https://codeforces.com/contests/2151
 URL:https://codeforces.com/contests/2151
+CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61852662@clist.by
+DTSTAMP:20250922T161421Z
+DTSTART:20250925T143500Z
+DTEND:20250925T165000Z
+SUMMARY:codeforces.com: Codeforces Round 1054 (Div. 3)
+DESCRIPTION:Title: Codeforces Round 1054 (Div. 3)\nPlatform: codeforces.com
+ \nDuration: 2h 15m\nURL: https://codeforces.com/contests/2149
+URL:https://codeforces.com/contests/2149
 CATEGORIES:codeforces.com
 END:VEVENT
 END:VCALENDAR
