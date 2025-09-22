@@ -96,6 +96,18 @@ The generated `.ics` file can be imported into TickTick, Google Calendar, Outloo
 - A rich description with the contest URL and duration.
 - A category set to the platform name for filtering.
 
+## Automation
+
+### Scheduled workflow (`.github/workflows/build.yml`)
+- Runs every day at 00:00 Beijing time (16:00 UTC) or on manual dispatch.
+- Uses repository secrets `CLIST_API_USERNAME` and `CLIST_API_KEY` for credentials.
+- Regenerates `contests.ics` via `clist_build.py` and commits updates when changes exist.
+
+### Batch generator (`clist_build.py`)
+- Fetches contests occurring within the next three days using the defaults from `clist_to_ics`.
+- Requires the same environment variables when executed locally.
+- Writes the calendar to `contests.ics` in the repository root.
+
 ## Troubleshooting
 - **No contests retrieved**: Broaden the time window, add `--include-ended`, or remove restrictive resource filters.
 - **CLIST API error**: Confirm your username/API key combination and verify that your account has API access. Temporary network issues can also cause failures.
@@ -195,6 +207,18 @@ python clist_to_ics.py --username YOUR_USERNAME --api-key YOUR_API_KEY --resourc
 - 以 UTC 表示的开始与结束时间。
 - 包含比赛链接和持续时间的详细描述。
 - 以平台名作为分类，方便过滤。
+
+## 自动化
+
+### 定时工作流（`.github/workflows/build.yml`）
+- 每天北京时间 00:00（UTC 16:00）自动运行，也支持手动触发。
+- 依赖仓库密钥 `CLIST_API_USERNAME` 和 `CLIST_API_KEY` 提供 CLIST 凭据。
+- 调用 `clist_build.py` 生成最新的 `contests.ics` 并在有更新时提交到仓库。
+
+### 批量生成脚本（clist_build.py）
+- 使用 `clist_to_ics` 默认获取未来三天的赛事列表。
+- 本地运行时同样需要提前设置上述环境变量。
+- 将生成的 `contests.ics` 写入仓库根目录。
 
 ## 常见问题
 - **未获取到比赛**：请放宽时间范围、添加 `--include-ended`，或减少筛选条件。
