@@ -21,7 +21,20 @@ jobs:
         env:
           CLIST_API_USERNAME: ${{ secrets.CLIST_API_USERNAME }}
           CLIST_API_KEY: ${{ secrets.CLIST_API_KEY }}
-        run: python clist_build.py
+        shell: bash
+        run: |
+          set -euo pipefail
+          python clist_build.py
+          output_path="$(python -c 'import clist_build; print(clist_build.OUTPUT_PATH.resolve())')"
+          target_path="$GITHUB_WORKSPACE/contests.ics"
+          if [ ! -f "$output_path" ]; then
+            echo "::error::contests.ics not found at $output_path"
+            exit 1
+          fi
+          if [ "$output_path" != "$target_path" ]; then
+            cp "$output_path" "$target_path"
+          fi
+          echo "contests.ics located at $target_path"
 
       - name: Upload contests.ics artifact
         uses: actions/upload-artifact@v4
