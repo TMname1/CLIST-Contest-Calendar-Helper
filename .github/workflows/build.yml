@@ -1,0 +1,30 @@
+name: Build CLIST Calendar
+
+on:
+  schedule:
+    # 00:00 Beijing (UTC+08:00) -> 16:00 UTC previous day
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate contests calendar
+        env:
+          CLIST_API_USERNAME: ${{ secrets.CLIST_API_USERNAME }}
+          CLIST_API_KEY: ${{ secrets.CLIST_API_KEY }}
+        run: python clist_build.py
+
+      - name: Upload contests.ics artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: contests-ics
+          path: contests.ics
