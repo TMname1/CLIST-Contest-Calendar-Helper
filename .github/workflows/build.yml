@@ -45,13 +45,18 @@ jobs:
           set -euo pipefail
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          if git diff --quiet -- contests.ics; then
+          if [ ! -f contests.ics ]; then
+            echo "::error::contests.ics not found after generation"
+            exit 1
+          fi
+          git add contests.ics
+          if git diff --cached --quiet; then
             echo "No updates to commit."
           else
-            git add contests.ics
             git commit -m "Update contests.ics [skip ci]"
             git push
           fi
+
 
       # - name: Upload contests.ics artifact
       #   uses: actions/upload-artifact@v4
