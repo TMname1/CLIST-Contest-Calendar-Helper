@@ -5,30 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:61940810@clist.by
-DTSTAMP:20250923T161435Z
-DTSTART:20250924T113500Z
-DTEND:20250924T143500Z
-SUMMARY:codeforces.com: Codeforces Round 1053 (Div. 1)
-DESCRIPTION:Title: Codeforces Round 1053 (Div. 1)\nPlatform: codeforces.com
- \nDuration: 3h\nURL: https://codeforces.com/contests/2150
-URL:https://codeforces.com/contests/2150
-CATEGORIES:codeforces.com
-END:VEVENT
-BEGIN:VEVENT
-UID:61940811@clist.by
-DTSTAMP:20250923T161435Z
-DTSTART:20250924T113500Z
-DTEND:20250924T143500Z
-SUMMARY:codeforces.com: Codeforces Round 1053 (Div. 2)
-DESCRIPTION:Title: Codeforces Round 1053 (Div. 2)\nPlatform: codeforces.com
- \nDuration: 3h\nURL: https://codeforces.com/contests/2151
-URL:https://codeforces.com/contests/2151
-CATEGORIES:codeforces.com
-END:VEVENT
-BEGIN:VEVENT
 UID:61852662@clist.by
-DTSTAMP:20250923T161435Z
+DTSTAMP:20250924T161437Z
 DTSTART:20250925T143500Z
 DTEND:20250925T165000Z
 SUMMARY:codeforces.com: Codeforces Round 1054 (Div. 3)
@@ -39,7 +17,7 @@ CATEGORIES:codeforces.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61905934@clist.by
-DTSTAMP:20250923T161435Z
+DTSTAMP:20250924T161437Z
 DTSTART:20250926T110000Z
 DTEND:20250926T130000Z
 SUMMARY:ac.nowcoder.com: 牛客小白月赛121 [ACM]
@@ -47,5 +25,42 @@ DESCRIPTION:Title: 牛客小白月赛121 [ACM]\nPlatform: ac.nowcoder.com\nDurat
  \nURL: https://ac.nowcoder.com/acm/contest/117762
 URL:https://ac.nowcoder.com/acm/contest/117762
 CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61929749@clist.by
+DTSTAMP:20250924T161437Z
+DTSTART:20250927T060000Z
+DTEND:20250927T100000Z
+SUMMARY:luogu.com.cn: 【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7 [rated\, io
+ i]
+DESCRIPTION:Title: 【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7 [rated\, ioi]\
+ nPlatform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/conte
+ st/243716
+URL:https://www.luogu.com.cn/contest/243716
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61470747@clist.by
+DTSTAMP:20250924T161437Z
+DTSTART:20250927T120000Z
+DTEND:20250927T134000Z
+SUMMARY:atcoder.jp: UNIQUE VISION Programming Contest 2024 Autumn (AtCoder 
+ Beginner Contest 425)
+DESCRIPTION:Title: UNIQUE VISION Programming Contest 2024 Autumn (AtCoder B
+ eginner Contest 425)\nPlatform: atcoder.jp\nDuration: 1h 40m\nURL: https:/
+ /atcoder.jp/contests/abc425
+URL:https://atcoder.jp/contests/abc425
+CATEGORIES:atcoder.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:61794058@clist.by
+DTSTAMP:20250924T161437Z
+DTSTART:20250927T143000Z
+DTEND:20250927T160000Z
+SUMMARY:leetcode.com: Biweekly Contest 166
+DESCRIPTION:Title: Biweekly Contest 166\nPlatform: leetcode.com\nDuration: 
+ 1h 30m\nURL: https://leetcode.com/contest/biweekly-contest-166
+URL:https://leetcode.com/contest/biweekly-contest-166
+CATEGORIES:leetcode.com
 END:VEVENT
 END:VCALENDAR
