@@ -5,20 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62148401@clist.by
-DTSTAMP:20250928T161127Z
-DTSTART:20250929T050000Z
-DTEND:20250929T100000Z
-SUMMARY:luogu.com.cn: [ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]
-DESCRIPTION:Title: [ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]\nP
- latform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/contest
- /278448
-URL:https://www.luogu.com.cn/contest/278448
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
 UID:61829727@clist.by
-DTSTAMP:20250928T161127Z
+DTSTAMP:20250929T161151Z
 DTSTART:20251001T040000Z
 DTEND:20251001T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day1 [ACM]
@@ -29,7 +17,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61934585@clist.by
-DTSTAMP:20250928T161127Z
+DTSTAMP:20250929T161151Z
 DTSTART:20251001T060000Z
 DTEND:20251001T093000Z
 SUMMARY:luogu.com.cn: 【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4 [rated\, io
@@ -38,6 +26,55 @@ DESCRIPTION:Title: 【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4 [rate
  nPlatform: luogu.com.cn\nDuration: 3h 30m\nURL: https://www.luogu.com.cn/c
  ontest/256849
 URL:https://www.luogu.com.cn/contest/256849
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62168927@clist.by
+DTSTAMP:20250929T161151Z
+DTSTART:20251002T003000Z
+DTEND:20251002T053000Z
+SUMMARY:luogu.com.cn: [SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]
+DESCRIPTION:Title: [SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]\nP
+ latform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/contest
+ /278652
+URL:https://www.luogu.com.cn/contest/278652
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61830004@clist.by
+DTSTAMP:20250929T161151Z
+DTSTART:20251002T040000Z
+DTEND:20251002T090000Z
+SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day2 [ACM]
+DESCRIPTION:Title: 2025牛客国庆集训派对day2 [ACM]\nPlatform: ac.nowcoder.com\nDurat
+ ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117504
+URL:https://ac.nowcoder.com/acm/contest/117504
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62149381@clist.by
+DTSTAMP:20250929T161151Z
+DTSTART:20251002T060000Z
+DTEND:20251002T103000Z
+SUMMARY:luogu.com.cn: 【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, io
+ i]
+DESCRIPTION:Title: 【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, ioi]\
+ nPlatform: luogu.com.cn\nDuration: 4h 30m\nURL: https://www.luogu.com.cn/c
+ ontest/278458
+URL:https://www.luogu.com.cn/contest/278458
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62149382@clist.by
+DTSTAMP:20250929T161151Z
+DTSTART:20251002T060000Z
+DTEND:20251002T103000Z
+SUMMARY:luogu.com.cn: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, io
+ i]
+DESCRIPTION:Title: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, ioi]\
+ nPlatform: luogu.com.cn\nDuration: 4h 30m\nURL: https://www.luogu.com.cn/c
+ ontest/278459
+URL:https://www.luogu.com.cn/contest/278459
 CATEGORIES:luogu.com.cn
 END:VEVENT
 END:VCALENDAR
