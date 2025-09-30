@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
 UID:61829727@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251001T040000Z
 DTEND:20251001T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day1 [ACM]
@@ -17,7 +17,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61934585@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251001T060000Z
 DTEND:20251001T093000Z
 SUMMARY:luogu.com.cn: 【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4 [rated\, io
@@ -30,7 +30,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62168927@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251002T003000Z
 DTEND:20251002T053000Z
 SUMMARY:luogu.com.cn: [SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]
@@ -42,7 +42,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:61830004@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251002T040000Z
 DTEND:20251002T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day2 [ACM]
@@ -53,7 +53,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62149381@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251002T060000Z
 DTEND:20251002T103000Z
 SUMMARY:luogu.com.cn: 【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, io
@@ -66,7 +66,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62149382@clist.by
-DTSTAMP:20250929T161151Z
+DTSTAMP:20250930T161420Z
 DTSTART:20251002T060000Z
 DTEND:20251002T103000Z
 SUMMARY:luogu.com.cn: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛） [rated\, io
@@ -76,5 +76,55 @@ DESCRIPTION:Title: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同
  ontest/278459
 URL:https://www.luogu.com.cn/contest/278459
 CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62192670@clist.by
+DTSTAMP:20250930T161420Z
+DTSTART:20251003T040000Z
+DTEND:20251003T090000Z
+SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day3 [ACM]
+DESCRIPTION:Title: 2025牛客国庆集训派对day3 [ACM]\nPlatform: ac.nowcoder.com\nDurat
+ ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117506
+URL:https://ac.nowcoder.com/acm/contest/117506
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62053788@clist.by
+DTSTAMP:20250930T161420Z
+DTSTART:20251003T060000Z
+DTEND:20251003T100000Z
+SUMMARY:luogu.com.cn: 【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, 
+ ioi]
+DESCRIPTION:Title: 【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, ioi
+ ]\nPlatform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/con
+ test/228774
+URL:https://www.luogu.com.cn/contest/228774
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62053789@clist.by
+DTSTAMP:20250930T161420Z
+DTSTART:20251003T060000Z
+DTEND:20251003T100000Z
+SUMMARY:luogu.com.cn: 【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, 
+ ioi]
+DESCRIPTION:Title: 【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, ioi
+ ]\nPlatform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/con
+ test/277395
+URL:https://www.luogu.com.cn/contest/277395
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61956178@clist.by
+DTSTAMP:20250930T161420Z
+DTSTART:20251003T143500Z
+DTEND:20251003T173500Z
+SUMMARY:codeforces.com: Squarepoint Challenge (Codeforces Round 1055\, Div.
+  1 + Div. 2)
+DESCRIPTION:Title: Squarepoint Challenge (Codeforces Round 1055\, Div. 1 + 
+ Div. 2)\nPlatform: codeforces.com\nDuration: 3h\nURL: https://codeforces.c
+ om/contests/2152
+URL:https://codeforces.com/contests/2152
+CATEGORIES:codeforces.com
 END:VEVENT
 END:VCALENDAR
