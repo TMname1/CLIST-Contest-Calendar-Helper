@@ -5,55 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62168927@clist.by
-DTSTAMP:20251001T161425Z
-DTSTART:20251002T003000Z
-DTEND:20251002T053000Z
-SUMMARY:luogu.com.cn: [SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]
-DESCRIPTION:Title: [SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛 [rated\, icpc]\nP
- latform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/contest
- /278652
-URL:https://www.luogu.com.cn/contest/278652
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:61830004@clist.by
-DTSTAMP:20251001T161425Z
-DTSTART:20251002T040000Z
-DTEND:20251002T090000Z
-SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day2 [ACM]
-DESCRIPTION:Title: 2025牛客国庆集训派对day2 [ACM]\nPlatform: ac.nowcoder.com\nDurat
- ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117504
-URL:https://ac.nowcoder.com/acm/contest/117504
-CATEGORIES:ac.nowcoder.com
-END:VEVENT
-BEGIN:VEVENT
-UID:62149381@clist.by
-DTSTAMP:20251001T161425Z
-DTSTART:20251002T060000Z
-DTEND:20251002T103000Z
-SUMMARY:luogu.com.cn: 【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4 [rated\, ioi]
-DESCRIPTION:Title: 【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4 [rated\, ioi]\nPlat
- form: luogu.com.cn\nDuration: 4h 30m\nURL: https://www.luogu.com.cn/contes
- t/278458
-URL:https://www.luogu.com.cn/contest/278458
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:62149382@clist.by
-DTSTAMP:20251001T161425Z
-DTSTART:20251002T060000Z
-DTEND:20251002T103000Z
-SUMMARY:luogu.com.cn: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4 [rated\, ioi]
-DESCRIPTION:Title: 【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4 [rated\, ioi]\nPlat
- form: luogu.com.cn\nDuration: 4h 30m\nURL: https://www.luogu.com.cn/contes
- t/278459
-URL:https://www.luogu.com.cn/contest/278459
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
 UID:62192670@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251003T040000Z
 DTEND:20251003T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day3 [ACM]
@@ -64,7 +17,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62053788@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251003T060000Z
 DTEND:20251003T100000Z
 SUMMARY:luogu.com.cn: 【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, 
@@ -77,7 +30,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62053789@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251003T060000Z
 DTEND:20251003T100000Z
 SUMMARY:luogu.com.cn: 【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II [rated\, 
@@ -90,7 +43,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:61956178@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251003T143500Z
 DTEND:20251003T173500Z
 SUMMARY:codeforces.com: Squarepoint Challenge (Codeforces Round 1055\, Div.
@@ -103,7 +56,7 @@ CATEGORIES:codeforces.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62192671@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251004T040000Z
 DTEND:20251004T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day4 [ACM]
@@ -114,7 +67,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61932835@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251004T060000Z
 DTEND:20251004T100000Z
 SUMMARY:luogu.com.cn: zyh_helen's Construction Round [ioi]
@@ -125,13 +78,79 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62089206@clist.by
-DTSTAMP:20251001T161425Z
+DTSTAMP:20251002T161333Z
 DTSTART:20251004T120000Z
 DTEND:20251004T134000Z
 SUMMARY:atcoder.jp: AtCoder Beginner Contest 426
 DESCRIPTION:Title: AtCoder Beginner Contest 426\nPlatform: atcoder.jp\nDura
  tion: 1h 40m\nURL: https://atcoder.jp/contests/abc426
 URL:https://atcoder.jp/contests/abc426
+CATEGORIES:atcoder.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:62145597@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T003000Z
+DTEND:20251005T040000Z
+SUMMARY:luogu.com.cn: Algo Beat Contest 002.5 [ioi]
+DESCRIPTION:Title: Algo Beat Contest 002.5 [ioi]\nPlatform: luogu.com.cn\nD
+ uration: 3h 30m\nURL: https://www.luogu.com.cn/contest/263244
+URL:https://www.luogu.com.cn/contest/263244
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62051510@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T023000Z
+DTEND:20251005T040000Z
+SUMMARY:leetcode.com: Weekly Contest 470
+DESCRIPTION:Title: Weekly Contest 470\nPlatform: leetcode.com\nDuration: 1h
+  30m\nURL: https://leetcode.com/contest/weekly-contest-470
+URL:https://leetcode.com/contest/weekly-contest-470
+CATEGORIES:leetcode.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62192672@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T040000Z
+DTEND:20251005T090000Z
+SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day5 [ACM]
+DESCRIPTION:Title: 2025牛客国庆集训派对day5 [ACM]\nPlatform: ac.nowcoder.com\nDurat
+ ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117508
+URL:https://ac.nowcoder.com/acm/contest/117508
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62056689@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T060000Z
+DTEND:20251005T103000Z
+SUMMARY:luogu.com.cn: 『Raiden Ei』 Round 1 [ioi]
+DESCRIPTION:Title: 『Raiden Ei』 Round 1 [ioi]\nPlatform: luogu.com.cn\nDurat
+ ion: 4h 30m\nURL: https://www.luogu.com.cn/contest/250078
+URL:https://www.luogu.com.cn/contest/250078
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62072358@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T110000Z
+DTEND:20251005T130000Z
+SUMMARY:ac.nowcoder.com: 牛客周赛 Round 112 [IOI]
+DESCRIPTION:Title: 牛客周赛 Round 112 [IOI]\nPlatform: ac.nowcoder.com\nDuratio
+ n: 2h\nURL: https://ac.nowcoder.com/acm/contest/118247
+URL:https://ac.nowcoder.com/acm/contest/118247
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61542274@clist.by
+DTSTAMP:20251002T161333Z
+DTSTART:20251005T120000Z
+DTEND:20251005T143000Z
+SUMMARY:atcoder.jp: AtCoder Regular Contest 207 (Div.1)
+DESCRIPTION:Title: AtCoder Regular Contest 207 (Div.1)\nPlatform: atcoder.j
+ p\nDuration: 2h 30m\nURL: https://atcoder.jp/contests/arc207
+URL:https://atcoder.jp/contests/arc207
 CATEGORIES:atcoder.jp
 END:VEVENT
 END:VCALENDAR
