@@ -5,43 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62192675@clist.by
-DTSTAMP:20251006T161354Z
-DTSTART:20251007T040000Z
-DTEND:20251007T090000Z
-SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day7 [ACM]
-DESCRIPTION:Title: 2025牛客国庆集训派对day7 [ACM]\nPlatform: ac.nowcoder.com\nDurat
- ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117510
-URL:https://ac.nowcoder.com/acm/contest/117510
-CATEGORIES:ac.nowcoder.com
-END:VEVENT
-BEGIN:VEVENT
-UID:62192773@clist.by
-DTSTAMP:20251006T161354Z
-DTSTART:20251007T060000Z
-DTEND:20251007T100000Z
-SUMMARY:luogu.com.cn: 【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8 [rated\, ioi]
-DESCRIPTION:Title: 【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8 [rated\, ioi]\nPla
- tform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/contest/2
- 30741
-URL:https://www.luogu.com.cn/contest/230741
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:62192774@clist.by
-DTSTAMP:20251006T161354Z
-DTSTART:20251007T060000Z
-DTEND:20251007T100000Z
-SUMMARY:luogu.com.cn: 【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8 [rated\, ioi]
-DESCRIPTION:Title: 【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8 [rated\, ioi]\nPla
- tform: luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/contest/2
- 78764
-URL:https://www.luogu.com.cn/contest/278764
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
 UID:62192676@clist.by
-DTSTAMP:20251006T161354Z
+DTSTAMP:20251007T161359Z
 DTSTART:20251008T040000Z
 DTEND:20251008T090000Z
 SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day8 [ACM]
@@ -49,5 +14,16 @@ DESCRIPTION:Title: 2025牛客国庆集训派对day8 [ACM]\nPlatform: ac.nowcoder
  ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117511
 URL:https://ac.nowcoder.com/acm/contest/117511
 CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62053244@clist.by
+DTSTAMP:20251007T161359Z
+DTSTART:20251010T143500Z
+DTEND:20251010T163500Z
+SUMMARY:codeforces.com: Codeforces Round 1057 (Div. 2)
+DESCRIPTION:Title: Codeforces Round 1057 (Div. 2)\nPlatform: codeforces.com
+ \nDuration: 2h\nURL: https://codeforces.com/contests/2153
+URL:https://codeforces.com/contests/2153
+CATEGORIES:codeforces.com
 END:VEVENT
 END:VCALENDAR
