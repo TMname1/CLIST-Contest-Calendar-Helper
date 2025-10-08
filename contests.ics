@@ -5,19 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62192676@clist.by
-DTSTAMP:20251007T161359Z
-DTSTART:20251008T040000Z
-DTEND:20251008T090000Z
-SUMMARY:ac.nowcoder.com: 2025牛客国庆集训派对day8 [ACM]
-DESCRIPTION:Title: 2025牛客国庆集训派对day8 [ACM]\nPlatform: ac.nowcoder.com\nDurat
- ion: 5h\nURL: https://ac.nowcoder.com/acm/contest/117511
-URL:https://ac.nowcoder.com/acm/contest/117511
-CATEGORIES:ac.nowcoder.com
-END:VEVENT
-BEGIN:VEVENT
 UID:62053244@clist.by
-DTSTAMP:20251007T161359Z
+DTSTAMP:20251008T161413Z
 DTSTART:20251010T143500Z
 DTEND:20251010T163500Z
 SUMMARY:codeforces.com: Codeforces Round 1057 (Div. 2)
@@ -25,5 +14,42 @@ DESCRIPTION:Title: Codeforces Round 1057 (Div. 2)\nPlatform: codeforces.com
  \nDuration: 2h\nURL: https://codeforces.com/contests/2153
 URL:https://codeforces.com/contests/2153
 CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62399068@clist.by
+DTSTAMP:20251008T161413Z
+DTSTART:20251011T050000Z
+DTEND:20251011T100000Z
+SUMMARY:luogu.com.cn: [ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛 [rated\, icp
+ c]
+DESCRIPTION:Title: [ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛 [rated\, icpc]\
+ nPlatform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/conte
+ st/281894
+URL:https://www.luogu.com.cn/contest/281894
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:61687782@clist.by
+DTSTAMP:20251008T161413Z
+DTSTART:20251011T120000Z
+DTEND:20251011T134000Z
+SUMMARY:atcoder.jp: Panasonic Programming Contest 2025（AtCoder Beginner Con
+ test 427）
+DESCRIPTION:Title: Panasonic Programming Contest 2025（AtCoder Beginner Cont
+ est 427）\nPlatform: atcoder.jp\nDuration: 1h 40m\nURL: https://atcoder.jp/
+ contests/abc427
+URL:https://atcoder.jp/contests/abc427
+CATEGORIES:atcoder.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:62051509@clist.by
+DTSTAMP:20251008T161413Z
+DTSTART:20251011T143000Z
+DTEND:20251011T160000Z
+SUMMARY:leetcode.com: Biweekly Contest 167
+DESCRIPTION:Title: Biweekly Contest 167\nPlatform: leetcode.com\nDuration: 
+ 1h 30m\nURL: https://leetcode.com/contest/biweekly-contest-167
+URL:https://leetcode.com/contest/biweekly-contest-167
+CATEGORIES:leetcode.com
 END:VEVENT
 END:VCALENDAR
