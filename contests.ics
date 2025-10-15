@@ -5,30 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62417588@clist.by
-DTSTAMP:20251014T161411Z
-DTSTART:20251015T110000Z
-DTEND:20251015T130000Z
-SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛1-基础组 [ACM]
-DESCRIPTION:Title: 牛客2025秋季算法编程训练联赛1-基础组 [ACM]\nPlatform: ac.nowcoder.com\n
- Duration: 2h\nURL: https://ac.nowcoder.com/acm/contest/118654
-URL:https://ac.nowcoder.com/acm/contest/118654
-CATEGORIES:ac.nowcoder.com
-END:VEVENT
-BEGIN:VEVENT
-UID:62417589@clist.by
-DTSTAMP:20251014T161411Z
-DTSTART:20251015T110000Z
-DTEND:20251015T133000Z
-SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛1-提升组 [ACM]
-DESCRIPTION:Title: 牛客2025秋季算法编程训练联赛1-提升组 [ACM]\nPlatform: ac.nowcoder.com\n
- Duration: 2h 30m\nURL: https://ac.nowcoder.com/acm/contest/119232
-URL:https://ac.nowcoder.com/acm/contest/119232
-CATEGORIES:ac.nowcoder.com
+UID:62562095@clist.by
+DTSTAMP:20251015T161211Z
+DTSTART:20251017T050000Z
+DTEND:20251017T100000Z
+SUMMARY:luogu.com.cn: [CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛 [rated\, icp
+ c]
+DESCRIPTION:Title: [CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛 [rated\, icpc]\
+ nPlatform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/conte
+ st/283411
+URL:https://www.luogu.com.cn/contest/283411
+CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62522052@clist.by
-DTSTAMP:20251014T161411Z
+DTSTAMP:20251015T161211Z
 DTSTART:20251017T110000Z
 DTEND:20251017T130000Z
 SUMMARY:luogu.com.cn: 【LGR-251-Div.4】洛谷入门赛 #40 [rated\, ioi]
@@ -39,7 +30,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62536439@clist.by
-DTSTAMP:20251014T161411Z
+DTSTAMP:20251015T161211Z
 DTSTART:20251017T110000Z
 DTEND:20251017T130000Z
 SUMMARY:ac.nowcoder.com: 牛客小白月赛122 [ACM]
@@ -50,7 +41,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62426580@clist.by
-DTSTAMP:20251014T161411Z
+DTSTAMP:20251015T161211Z
 DTSTART:20251017T143500Z
 DTEND:20251017T165000Z
 SUMMARY:codeforces.com: Codeforces Round 1059 (Div. 3)
@@ -58,5 +49,27 @@ DESCRIPTION:Title: Codeforces Round 1059 (Div. 3)\nPlatform: codeforces.com
  \nDuration: 2h 15m\nURL: https://codeforces.com/contests/2162
 URL:https://codeforces.com/contests/2162
 CATEGORIES:codeforces.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62380882@clist.by
+DTSTAMP:20251015T161211Z
+DTSTART:20251018T063000Z
+DTEND:20251018T103000Z
+SUMMARY:luogu.com.cn: 【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟 [rated\, oi]
+DESCRIPTION:Title: 【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟 [rated\, oi]\nPlatform: 
+ luogu.com.cn\nDuration: 4h\nURL: https://www.luogu.com.cn/contest/281662
+URL:https://www.luogu.com.cn/contest/281662
+CATEGORIES:luogu.com.cn
+END:VEVENT
+BEGIN:VEVENT
+UID:62089209@clist.by
+DTSTAMP:20251015T161211Z
+DTSTART:20251018T120000Z
+DTEND:20251018T134000Z
+SUMMARY:atcoder.jp: AtCoder Beginner Contest 428
+DESCRIPTION:Title: AtCoder Beginner Contest 428\nPlatform: atcoder.jp\nDura
+ tion: 1h 40m\nURL: https://atcoder.jp/contests/abc428
+URL:https://atcoder.jp/contests/abc428
+CATEGORIES:atcoder.jp
 END:VEVENT
 END:VCALENDAR
