@@ -5,54 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62562095@clist.by
-DTSTAMP:20251016T161502Z
-DTSTART:20251017T050000Z
-DTEND:20251017T100000Z
-SUMMARY:luogu.com.cn: [CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛 [rated\, icp
- c]
-DESCRIPTION:Title: [CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛 [rated\, icpc]\
- nPlatform: luogu.com.cn\nDuration: 5h\nURL: https://www.luogu.com.cn/conte
- st/283411
-URL:https://www.luogu.com.cn/contest/283411
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:62522052@clist.by
-DTSTAMP:20251016T161502Z
-DTSTART:20251017T110000Z
-DTEND:20251017T130000Z
-SUMMARY:luogu.com.cn: 【LGR-251-Div.4】洛谷入门赛 #40 [rated\, ioi]
-DESCRIPTION:Title: 【LGR-251-Div.4】洛谷入门赛 #40 [rated\, ioi]\nPlatform: luogu.
- com.cn\nDuration: 2h\nURL: https://www.luogu.com.cn/contest/283134
-URL:https://www.luogu.com.cn/contest/283134
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:62536439@clist.by
-DTSTAMP:20251016T161502Z
-DTSTART:20251017T110000Z
-DTEND:20251017T130000Z
-SUMMARY:ac.nowcoder.com: 牛客小白月赛122 [ACM]
-DESCRIPTION:Title: 牛客小白月赛122 [ACM]\nPlatform: ac.nowcoder.com\nDuration: 2h
- \nURL: https://ac.nowcoder.com/acm/contest/119664
-URL:https://ac.nowcoder.com/acm/contest/119664
-CATEGORIES:ac.nowcoder.com
-END:VEVENT
-BEGIN:VEVENT
-UID:62426580@clist.by
-DTSTAMP:20251016T161502Z
-DTSTART:20251017T143500Z
-DTEND:20251017T165000Z
-SUMMARY:codeforces.com: Codeforces Round 1059 (Div. 3)
-DESCRIPTION:Title: Codeforces Round 1059 (Div. 3)\nPlatform: codeforces.com
- \nDuration: 2h 15m\nURL: https://codeforces.com/contests/2162
-URL:https://codeforces.com/contests/2162
-CATEGORIES:codeforces.com
-END:VEVENT
-BEGIN:VEVENT
 UID:62380882@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251018T063000Z
 DTEND:20251018T103000Z
 SUMMARY:luogu.com.cn: 【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟 [rated\, oi]
@@ -63,7 +17,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62089209@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251018T120000Z
 DTEND:20251018T134000Z
 SUMMARY:atcoder.jp: AtCoder Beginner Contest 428
@@ -74,7 +28,7 @@ CATEGORIES:atcoder.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:62380881@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251019T003000Z
 DTEND:20251019T040000Z
 SUMMARY:luogu.com.cn: 【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟 [rated\, oi]
@@ -86,7 +40,7 @@ CATEGORIES:luogu.com.cn
 END:VEVENT
 BEGIN:VEVENT
 UID:62421100@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251019T023000Z
 DTEND:20251019T040000Z
 SUMMARY:leetcode.com: Weekly Contest 472
@@ -97,7 +51,7 @@ CATEGORIES:leetcode.com
 END:VEVENT
 BEGIN:VEVENT
 UID:61991963@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251019T100000Z
 DTEND:20251019T140000Z
 SUMMARY:atcoder.jp: RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder H
@@ -110,7 +64,7 @@ CATEGORIES:atcoder.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:62424124@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251019T110000Z
 DTEND:20251019T130000Z
 SUMMARY:ac.nowcoder.com: 牛客周赛 Round 114 [IOI]
@@ -121,12 +75,12 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62116160@clist.by
-DTSTAMP:20251016T161502Z
+DTSTAMP:20251017T161348Z
 DTSTART:20251019T143500Z
 DTEND:20251019T163500Z
-SUMMARY:codeforces.com: Codeforces Round (Div. 2)
-DESCRIPTION:Title: Codeforces Round (Div. 2)\nPlatform: codeforces.com\nDur
- ation: 2h\nURL: https://codeforces.com/contests/2154
+SUMMARY:codeforces.com: Codeforces Round 1060 (Div. 2)
+DESCRIPTION:Title: Codeforces Round 1060 (Div. 2)\nPlatform: codeforces.com
+ \nDuration: 2h\nURL: https://codeforces.com/contests/2154
 URL:https://codeforces.com/contests/2154
 CATEGORIES:codeforces.com
 END:VEVENT
