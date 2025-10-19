@@ -5,61 +5,25 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
-UID:62380881@clist.by
-DTSTAMP:20251018T161207Z
-DTSTART:20251019T003000Z
-DTEND:20251019T040000Z
-SUMMARY:luogu.com.cn: 【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟 [rated\, oi]
-DESCRIPTION:Title: 【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟 [rated\, oi]\nPlatform: 
- luogu.com.cn\nDuration: 3h 30m\nURL: https://www.luogu.com.cn/contest/2816
- 63
-URL:https://www.luogu.com.cn/contest/281663
-CATEGORIES:luogu.com.cn
-END:VEVENT
-BEGIN:VEVENT
-UID:62421100@clist.by
-DTSTAMP:20251018T161207Z
-DTSTART:20251019T023000Z
-DTEND:20251019T040000Z
-SUMMARY:leetcode.com: Weekly Contest 472
-DESCRIPTION:Title: Weekly Contest 472\nPlatform: leetcode.com\nDuration: 1h
-  30m\nURL: https://leetcode.com/contest/weekly-contest-472
-URL:https://leetcode.com/contest/weekly-contest-472
-CATEGORIES:leetcode.com
-END:VEVENT
-BEGIN:VEVENT
-UID:61991963@clist.by
-DTSTAMP:20251018T161207Z
-DTSTART:20251019T100000Z
-DTEND:20251019T140000Z
-SUMMARY:atcoder.jp: RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder H
- euristic Contest 055）
-DESCRIPTION:Title: RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder He
- uristic Contest 055）\nPlatform: atcoder.jp\nDuration: 4h\nURL: https://atc
- oder.jp/contests/ahc055
-URL:https://atcoder.jp/contests/ahc055
-CATEGORIES:atcoder.jp
-END:VEVENT
-BEGIN:VEVENT
-UID:62424124@clist.by
-DTSTAMP:20251018T161207Z
-DTSTART:20251019T110000Z
-DTEND:20251019T130000Z
-SUMMARY:ac.nowcoder.com: 牛客周赛 Round 114 [IOI]
-DESCRIPTION:Title: 牛客周赛 Round 114 [IOI]\nPlatform: ac.nowcoder.com\nDuratio
- n: 2h\nURL: https://ac.nowcoder.com/acm/contest/119273
-URL:https://ac.nowcoder.com/acm/contest/119273
+UID:62564862@clist.by
+DTSTAMP:20251019T161212Z
+DTSTART:20251022T110000Z
+DTEND:20251022T130000Z
+SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛2-基础组 [ACM]
+DESCRIPTION:Title: 牛客2025秋季算法编程训练联赛2-基础组 [ACM]\nPlatform: ac.nowcoder.com\n
+ Duration: 2h\nURL: https://ac.nowcoder.com/acm/contest/118653
+URL:https://ac.nowcoder.com/acm/contest/118653
 CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
-UID:62116160@clist.by
-DTSTAMP:20251018T161207Z
-DTSTART:20251019T143500Z
-DTEND:20251019T163500Z
-SUMMARY:codeforces.com: Codeforces Round 1060 (Div. 2)
-DESCRIPTION:Title: Codeforces Round 1060 (Div. 2)\nPlatform: codeforces.com
- \nDuration: 2h\nURL: https://codeforces.com/contests/2154
-URL:https://codeforces.com/contests/2154
-CATEGORIES:codeforces.com
+UID:62564863@clist.by
+DTSTAMP:20251019T161212Z
+DTSTART:20251022T110000Z
+DTEND:20251022T133000Z
+SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛2-提升组 [ACM]
+DESCRIPTION:Title: 牛客2025秋季算法编程训练联赛2-提升组 [ACM]\nPlatform: ac.nowcoder.com\n
+ Duration: 2h 30m\nURL: https://ac.nowcoder.com/acm/contest/119774
+URL:https://ac.nowcoder.com/acm/contest/119774
+CATEGORIES:ac.nowcoder.com
 END:VEVENT
 END:VCALENDAR
