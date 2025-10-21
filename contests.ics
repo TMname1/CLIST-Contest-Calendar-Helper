@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:CLIST Contests
 BEGIN:VEVENT
 UID:62564862@clist.by
-DTSTAMP:20251020T161407Z
+DTSTAMP:20251021T161511Z
 DTSTART:20251022T110000Z
 DTEND:20251022T130000Z
 SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛2-基础组 [ACM]
@@ -17,7 +17,7 @@ CATEGORIES:ac.nowcoder.com
 END:VEVENT
 BEGIN:VEVENT
 UID:62564863@clist.by
-DTSTAMP:20251020T161407Z
+DTSTAMP:20251021T161511Z
 DTSTART:20251022T110000Z
 DTEND:20251022T133000Z
 SUMMARY:ac.nowcoder.com: 牛客2025秋季算法编程训练联赛2-提升组 [ACM]
@@ -25,5 +25,27 @@ DESCRIPTION:Title: 牛客2025秋季算法编程训练联赛2-提升组 [ACM]\nPl
  Duration: 2h 30m\nURL: https://ac.nowcoder.com/acm/contest/119774
 URL:https://ac.nowcoder.com/acm/contest/119774
 CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:61929574@clist.by
+DTSTAMP:20251021T161511Z
+DTSTART:20251024T110000Z
+DTEND:20251024T140000Z
+SUMMARY:ac.nowcoder.com: 牛客2025年1024程序员节娱乐赛 [ACM]
+DESCRIPTION:Title: 牛客2025年1024程序员节娱乐赛 [ACM]\nPlatform: ac.nowcoder.com\nDur
+ ation: 3h\nURL: https://ac.nowcoder.com/acm/contest/117846
+URL:https://ac.nowcoder.com/acm/contest/117846
+CATEGORIES:ac.nowcoder.com
+END:VEVENT
+BEGIN:VEVENT
+UID:62182022@clist.by
+DTSTAMP:20251021T161511Z
+DTSTART:20251024T143500Z
+DTEND:20251024T163500Z
+SUMMARY:codeforces.com: Codeforces Round 1061 (Div. 2)
+DESCRIPTION:Title: Codeforces Round 1061 (Div. 2)\nPlatform: codeforces.com
+ \nDuration: 2h\nURL: https://codeforces.com/contests/2156
+URL:https://codeforces.com/contests/2156
+CATEGORIES:codeforces.com
 END:VEVENT
 END:VCALENDAR
